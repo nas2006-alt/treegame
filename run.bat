@@ -1,1 +1,1 @@
-jdk-13.0.1\bin\java.exe -Djava.library.path=slick2dnatives -Dfile.encoding=UTF-8 -classpath TreeGame.jar;slick2d\natives-windows.jar;slick2d\slick.jar;slick2d\jinput.jar;slick2d\lwjgl.jar;slick2d\tinylinepp.jar; com.noah.treegame.Main
+java.exe -Djava.library.path=slick2dnatives -Dfile.encoding=UTF-8 -classpath TreeGame.jar;slick2d\natives-windows.jar;slick2d\slick.jar;slick2d\jinput.jar;slick2d\lwjgl.jar;slick2d\tinylinepp.jar; com.noah.treegame.Main
