@@ -1,5 +1,0 @@
-1.5e3
-0.0e0
-0.0e0
-false,false,true,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,
-600458066
